@@ -1,10 +1,5 @@
-# Hospital Management System
+# MUTOMO SUB COUNTY HOSPITAL
 Hospital Management System using MySQL, Php and Bootstrap
-
-
-Video Demo : [Hospital Management System - Youtube](https://www.youtube.com/watch?v=W2XGSM5i9P8)
-
-Live Demo : [Hospital Management System - 000webhost by Kishan](https://kishan0725.000webhostapp.com)
 
 ## Need to work on:
 
@@ -20,7 +15,7 @@ Live Demo : [Hospital Management System - 000webhost by Kishan](https://kishan07
 ## Prerequisites
 1. Install XAMPP web server
 2. Any Editor (Preferably VS Code or Sublime Text)
-3. Any web browser with latest version
+3. Any web browser with latest version LIKE chrome
 
 ## Languages and Technologies used
 1. HTML5/CSS3
